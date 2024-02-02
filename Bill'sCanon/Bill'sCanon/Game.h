@@ -30,6 +30,7 @@ private:
 	void render();
 	
 	void setupFontAndText();
+
 	void setupSprite();
 
 	sf::RenderWindow m_window; // main SFML window
