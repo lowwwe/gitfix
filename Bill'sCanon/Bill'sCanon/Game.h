@@ -1,7 +1,7 @@
 /// <summary>
 /// Eliza Zimmermann
 /// 02/02/2024
-/// you need to change the above line or lose marks
+/// you need to change the above line or lose mark
 /// </summary>
 #ifndef GAME_HPP
 #define GAME_HPP

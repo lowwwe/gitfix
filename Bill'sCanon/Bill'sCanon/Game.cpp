@@ -147,5 +147,5 @@ void Game::setupSprite()
 		std::cout << "problem loading logo" << std::endl;
 	}
 	m_logoSprite.setTexture(m_logoTexture);
-	m_logoSprite.setPosition(400.0f, 180.0f);
+	m_logoSprite.setPosition(400.0f, 120.0f);
 }
